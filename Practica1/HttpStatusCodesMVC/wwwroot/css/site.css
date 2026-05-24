@@ -18,5 +18,24 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #f8f9fa;
+}
+
+.card {
+    transition: transform 0.2s ease;
+    border-radius: 15px;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+    }
+
+.hero-panel {
+    background: white;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: white;
 }

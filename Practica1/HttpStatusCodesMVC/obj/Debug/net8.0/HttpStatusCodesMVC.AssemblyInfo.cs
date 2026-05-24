@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HttpStatusCodesMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b743e1a19c481c23824cd2975888c0488057227f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HttpStatusCodesMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HttpStatusCodesMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

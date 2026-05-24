@@ -32,3 +32,4 @@ C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practi
 C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica1\HttpStatusCodesMVC\obj\Debug\net8.0\HttpStatusCodesMVC.pdb
 C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica1\HttpStatusCodesMVC\obj\Debug\net8.0\HttpStatusCodesMVC.genruntimeconfig.cache
 C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica1\HttpStatusCodesMVC\obj\Debug\net8.0\ref\HttpStatusCodesMVC.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica1\HttpStatusCodesMVC\obj\Debug\net8.0\HttpStatusCodesMVC.sourcelink.json

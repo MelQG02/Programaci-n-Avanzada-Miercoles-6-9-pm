@@ -1,0 +1,123 @@
+﻿@{
+    ViewData["Title"] = "Informativos";
+}
+
+<section class="mb-5">
+    <div class="p-4 bg-light rounded-3 shadow-sm">
+        <h1 class="display-6 fw-bold">Códigos HTTP Informativos</h1>
+
+        <p class="text-muted">
+            Los códigos de estado 1xx indican que la solicitud fue recibida y el proceso continúa.
+        </p>
+    </div>
+</section>
+
+<div class="row g-4">
+
+    <!-- 100 Continue -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/100.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 100">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">100 Continue</h3>
+
+                        <p class="card-text">
+                            Tu servidor recibió los encabezados de la solicitud y está listo
+                            para recibir el cuerpo. El cliente debe seguir enviando los datos.
+                        </p>
+
+                        <p class="card-text">
+                            Esto evita desperdiciar ancho de banda en solicitudes que el servidor
+                            rechazaría de todos modos.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 101 Switching Protocols -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/101.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 101">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">101 Switching Protocols</h3>
+
+                        <p class="card-text">
+                            El servidor aceptó cambiar de protocolo.
+                        </p>
+
+                        <p class="card-text">
+                            Esto ocurre cuando se actualiza de HTTP a WebSocket
+                            o cuando se cambia a HTTP/2.
+                        </p>
+
+                        <p class="card-text">
+                            El cambio solo se produce si beneficia a ambas partes.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 102 Processing -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/102.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 102">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">102 Processing</h3>
+
+                        <p class="card-text">
+                            El servidor todavía está trabajando en tu solicitud.
+                        </p>
+
+                        <p class="card-text">
+                            Verás este código cuando las operaciones tarden más
+                            de lo esperado.
+                        </p>
+
+                        <p class="card-text">
+                            Esto evita que se produzcan tiempos de espera
+                            en procesos lentos.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>

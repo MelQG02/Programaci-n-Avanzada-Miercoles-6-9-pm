@@ -1,0 +1,130 @@
+﻿@{
+    ViewData["Title"] = "Redirección";
+}
+
+<section class="mb-5">
+    <div class="p-4 bg-light rounded-3 shadow-sm">
+        <h1 class="display-6 fw-bold">Códigos HTTP de Redirección</h1>
+
+        <p class="text-muted">
+            Los códigos de estado 3xx indican que el contenido se movió a otra ubicación
+            y el servidor redirige al cliente hacia una nueva dirección.
+        </p>
+    </div>
+</section>
+
+<div class="row g-4">
+
+    <!-- 300 Multiple Choices -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/300.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 300">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">300 Multiple Choices</h3>
+
+                        <p class="card-text">
+                            Existen varias respuestas posibles y el cliente debe elegir una.
+                        </p>
+
+                        <p class="card-text">
+                            Esto puede ocurrir cuando un recurso tiene versiones
+                            en diferentes idiomas o formatos.
+                        </p>
+
+                        <p class="card-text">
+                            La respuesta incluye las distintas opciones disponibles
+                            y sus ubicaciones correspondientes.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 301 Moved Permanently -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/301.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 301">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">301 Moved Permanently</h3>
+
+                        <p class="card-text">
+                            El recurso fue movido permanentemente a una nueva URL.
+                        </p>
+
+                        <p class="card-text">
+                            Todas las solicitudes futuras deben utilizar
+                            la nueva dirección.
+                        </p>
+
+                        <p class="card-text">
+                            Este código se utiliza comúnmente cuando un sitio web
+                            cambia de dirección de manera definitiva.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 304 Not Modified -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/304.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 304">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">304 Not Modified</h3>
+
+                        <p class="card-text">
+                            El recurso no ha cambiado desde la última vez
+                            que fue solicitado.
+                        </p>
+
+                        <p class="card-text">
+                            El navegador puede utilizar la versión almacenada
+                            en caché en lugar de descargar el recurso nuevamente.
+                        </p>
+
+                        <p class="card-text">
+                            Esto ayuda a ahorrar ancho de banda y mejorar
+                            la velocidad de carga.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>

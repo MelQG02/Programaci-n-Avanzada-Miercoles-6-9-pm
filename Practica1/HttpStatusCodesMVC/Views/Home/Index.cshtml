@@ -1,8 +1,146 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Inicio";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="p-5 mb-4 bg-light rounded-3 shadow-sm">
+    <div class="container-fluid py-3">
+        <h1 class="display-5 fw-bold">Códigos de Estado HTTP</h1>
+
+        <p class="col-md-10 fs-5 text-muted">
+            Los códigos de estado HTTP son respuestas numéricas de 3 dígitos que un servidor
+            envía al navegador para indicar el resultado de una solicitud realizada por el usuario.
+            Estos códigos permiten saber si una petición fue exitosa, si ocurrió un error o si se
+            necesita realizar alguna acción adicional.
+        </p>
+
+        <div class="mt-4">
+            <span class="badge bg-secondary me-2 p-2">Informativos</span>
+            <span class="badge bg-success me-2 p-2">Éxito</span>
+            <span class="badge bg-primary me-2 p-2">Redirección</span>
+            <span class="badge bg-warning text-dark me-2 p-2">Error del cliente</span>
+            <span class="badge bg-danger me-2 p-2">Error del servidor</span>
+        </div>
+    </div>
+</section>
+
+<section class="mb-4">
+    <h2 class="mb-4">Tipos de Códigos HTTP</h2>
+
+    <div class="row g-4">
+
+        <div class="col-md-6 col-lg-4">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body">
+                    <h4 class="card-title text-secondary">1xx - Informativos</h4>
+                    <p class="card-text">
+                        Indican que la solicitud fue recibida y el proceso continúa.
+                    </p>
+
+                    <a class="btn btn-outline-secondary"
+                       asp-controller="Statushttp"
+                       asp-action="Informativos">
+                        Ver ejemplos
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-lg-4">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body">
+                    <h4 class="card-title text-success">2xx - Éxito</h4>
+                    <p class="card-text">
+                        La solicitud fue procesada correctamente por el servidor.
+                    </p>
+
+                    <a class="btn btn-outline-success"
+                       asp-controller="Statushttp"
+                       asp-action="Exito">
+                        Ver ejemplos
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-lg-4">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body">
+                    <h4 class="card-title text-primary">3xx - Redirección</h4>
+                    <p class="card-text">
+                        El recurso solicitado fue movido o requiere otra acción.
+                    </p>
+
+                    <a class="btn btn-outline-primary"
+                       asp-controller="Statushttp"
+                       asp-action="Redireccion">
+                        Ver ejemplos
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-lg-6">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body">
+                    <h4 class="card-title text-warning">4xx - Error del Cliente</h4>
+                    <p class="card-text">
+                        Ocurre cuando existe un problema con la solicitud enviada por el usuario.
+                    </p>
+
+                    <a class="btn btn-outline-warning"
+                       asp-controller="Statushttp"
+                       asp-action="Errcliente">
+                        Ver ejemplos
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-lg-6">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body">
+                    <h4 class="card-title text-danger">5xx - Error del Servidor</h4>
+                    <p class="card-text">
+                        El servidor encontró un error al intentar procesar la solicitud.
+                    </p>
+
+                    <a class="btn btn-outline-danger"
+                       asp-controller="Statushttp"
+                       asp-action="Errservidor">
+                        Ver ejemplos
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<section class="mt-5">
+    <div class="alert alert-info shadow-sm">
+        <h5 class="fw-bold">Referencias utilizadas</h5>
+
+        <p class="mb-1">
+            La información utilizada para el contenido de los códigos HTTP fue tomada de:
+        </p>
+
+        <ul class="mb-0">
+            <li>
+                <a href="https://contabo.com/blog/es/codigos-de-respuesta-http-y-estados-del-servidor-referencia-completa/"
+                   target="_blank">
+                    Contabo - Códigos de Respuesta HTTP
+                </a>
+            </li>
+
+            <li>
+                <a href="https://http.cat/"
+                   target="_blank">
+                    HTTP Cats
+                </a>
+            </li>
+        </ul>
+    </div>
+    <br />
+    <br />
+    <br />
+</section>

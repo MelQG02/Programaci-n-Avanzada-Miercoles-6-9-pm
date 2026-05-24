@@ -1,0 +1,172 @@
+﻿@{
+    ViewData["Title"] = "Error del Cliente";
+}
+
+<section class="mb-5">
+    <div class="p-4 bg-light rounded-3 shadow-sm">
+        <h1 class="display-6 fw-bold">Códigos HTTP de Error del Cliente</h1>
+
+        <p class="text-muted">
+            Los códigos de estado 4xx indican errores generados por el cliente.
+            Estos errores ocurren cuando la solicitud contiene datos incorrectos,
+            el recurso no existe o el usuario no tiene permisos de acceso.
+        </p>
+    </div>
+</section>
+
+<div class="row g-4">
+
+    <!-- 400 Bad Request -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/400.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 400">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">400 Bad Request</h3>
+
+                        <p class="card-text">
+                            El servidor no puede procesar la solicitud
+                            debido a errores del cliente.
+                        </p>
+
+                        <p class="card-text">
+                            Esto puede suceder por sintaxis inválida,
+                            parámetros incorrectos o rutas mal escritas.
+                        </p>
+
+                        <p class="card-text">
+                            Generalmente se soluciona revisando la URL
+                            o corrigiendo los datos enviados.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 401 Unauthorized -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/401.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 401">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">401 Unauthorized</h3>
+
+                        <p class="card-text">
+                            El servidor rechazó la solicitud debido
+                            a una autenticación inválida o inexistente.
+                        </p>
+
+                        <p class="card-text">
+                            Las credenciales enviadas son incorrectas
+                            o el usuario no ha iniciado sesión.
+                        </p>
+
+                        <p class="card-text">
+                            Para acceder al recurso se requiere
+                            autenticación válida.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 409 Conflict -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/409.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 409">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">409 Conflict</h3>
+
+                        <p class="card-text">
+                            El servidor no puede completar la solicitud
+                            debido a un conflicto con el recurso actual.
+                        </p>
+
+                        <p class="card-text">
+                            Este error suele aparecer en solicitudes PUT
+                            cuando existen conflictos de información.
+                        </p>
+
+                        <p class="card-text">
+                            El cliente debe corregir el conflicto
+                            antes de volver a intentarlo.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 450 Windows Parental Controls -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/450.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 450">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">450 Windows Parental Controls</h3>
+
+                        <p class="card-text">
+                            El servidor bloqueó la solicitud debido
+                            a configuraciones de seguridad
+                            del Control Parental de Windows.
+                        </p>
+
+                        <p class="card-text">
+                            Este código indica que el acceso al sitio web
+                            fue restringido por filtros de contenido.
+                        </p>
+
+                        <p class="card-text">
+                            El bloqueo es realizado por herramientas
+                            de seguridad o control parental.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>

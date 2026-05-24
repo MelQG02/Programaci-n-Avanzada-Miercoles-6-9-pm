@@ -27,8 +27,8 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/Informativos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYXRpdm9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/Shared/Error.cshtml]
@@ -37,6 +37,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/Statushttp/Errcliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzaHR0cFxFcnJjbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/Statushttp/Errservidor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzaHR0cFxFcnJzZXJ2aWRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/Statushttp/Exito.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzaHR0cFxFeGl0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/Statushttp/Informativos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzaHR0cFxJbmZvcm1hdGl2b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/Statushttp/Redireccion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzaHR0cFxSZWRpcmVjY2lvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/50683/Desktop/ASP.NetMEli/Programaci-n-Avanzada-Miercoles-6-9-pm/Practica1/HttpStatusCodesMVC/Views/_ViewImports.cshtml]

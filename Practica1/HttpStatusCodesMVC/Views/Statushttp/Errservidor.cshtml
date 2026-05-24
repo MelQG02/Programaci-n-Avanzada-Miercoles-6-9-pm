@@ -1,0 +1,131 @@
+﻿@{
+    ViewData["Title"] = "Error del Servidor";
+}
+
+<section class="mb-5">
+    <div class="p-4 bg-light rounded-3 shadow-sm">
+        <h1 class="display-6 fw-bold">Códigos HTTP de Error del Servidor</h1>
+
+        <p class="text-muted">
+            Los códigos de estado 5xx indican problemas del servidor.
+            Estos errores ocurren cuando el servidor no puede completar
+            correctamente la solicitud realizada por el cliente.
+        </p>
+    </div>
+</section>
+
+<div class="row g-4">
+
+    <!-- 500 Internal Server Error -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/500.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 500">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">500 Internal Server Error</h3>
+
+                        <p class="card-text">
+                            Error genérico del servidor.
+                        </p>
+
+                        <p class="card-text">
+                            El servidor encontró un problema inesperado
+                            que impidió completar la solicitud.
+                        </p>
+
+                        <p class="card-text">
+                            Este tipo de error debe ser revisado
+                            por los administradores o desarrolladores del sistema.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 504 Gateway Timeout -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/504.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 504">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">504 Gateway Timeout</h3>
+
+                        <p class="card-text">
+                            La puerta de enlace o servidor proxy
+                            no recibió una respuesta a tiempo.
+                        </p>
+
+                        <p class="card-text">
+                            Este problema puede ocurrir por fallos de red
+                            o sobrecarga del servidor.
+                        </p>
+
+                        <p class="card-text">
+                            Generalmente está relacionado con problemas
+                            de hosting o comunicación entre servidores.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 506 Variant Also Negotiates -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/506.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 506">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">506 Variant Also Negotiates</h3>
+
+                        <p class="card-text">
+                            Error relacionado con la configuración del servidor.
+                        </p>
+
+                        <p class="card-text">
+                            La variante seleccionada para la negociación
+                            de contenido no es un endpoint válido.
+                        </p>
+
+                        <p class="card-text">
+                            Esto puede provocar un ciclo infinito
+                            durante el procesamiento de la solicitud.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>

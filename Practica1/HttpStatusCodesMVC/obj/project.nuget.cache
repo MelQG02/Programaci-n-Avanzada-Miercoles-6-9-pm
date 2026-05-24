@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U2v91Ykr9II=",
+  "dgSpecHash": "1ZVMV8AfF34=",
   "success": true,
   "projectFilePath": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica1\\HttpStatusCodesMVC\\HttpStatusCodesMVC.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\50683\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\50683\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\50683\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\50683\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.27\\microsoft.netcore.app.host.win-x64.8.0.27.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

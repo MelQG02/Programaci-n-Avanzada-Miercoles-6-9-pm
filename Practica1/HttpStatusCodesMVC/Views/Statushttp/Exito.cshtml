@@ -1,0 +1,130 @@
+﻿@{
+    ViewData["Title"] = "Éxito";
+}
+
+<section class="mb-5">
+    <div class="p-4 bg-light rounded-3 shadow-sm">
+        <h1 class="display-6 fw-bold">Códigos HTTP de Éxito</h1>
+
+        <p class="text-muted">
+            Los códigos de estado 2xx indican que la solicitud se completó correctamente.
+            El servidor entendió la solicitud y entregó el resultado esperado.
+        </p>
+    </div>
+</section>
+
+<div class="row g-4">
+
+    <!-- 200 OK -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/200.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 200">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">200 OK</h3>
+
+                        <p class="card-text">
+                            La solicitud se realizó correctamente.
+                        </p>
+
+                        <p class="card-text">
+                            El significado depende del método HTTP utilizado.
+                            GET obtuvo la página, POST envió el formulario,
+                            PUT actualizó el recurso y DELETE lo eliminó.
+                        </p>
+
+                        <p class="card-text">
+                            Este es el código que normalmente se espera recibir.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 201 Created -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/201.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 201">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">201 Created</h3>
+
+                        <p class="card-text">
+                            El servidor creó un nuevo recurso.
+                        </p>
+
+                        <p class="card-text">
+                            Este código suele aparecer después de solicitudes
+                            POST o PUT.
+                        </p>
+
+                        <p class="card-text">
+                            La respuesta puede incluir un encabezado Location
+                            que apunta al nuevo recurso creado.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 202 Accepted -->
+    <div class="col-12">
+        <div class="card shadow-sm border-0">
+            <div class="row g-0 align-items-center">
+
+                <div class="col-md-4 text-center p-3">
+                    <img src="~/Assets/202.jpg"
+                         class="img-fluid rounded"
+                         alt="Código HTTP 202">
+                </div>
+
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <h3 class="card-title">202 Accepted</h3>
+
+                        <p class="card-text">
+                            El servidor aceptó la solicitud,
+                            pero todavía no la ha procesado.
+                        </p>
+
+                        <p class="card-text">
+                            Este código se utiliza en operaciones por lotes
+                            o procesos asincrónicos.
+                        </p>
+
+                        <p class="card-text">
+                            El cliente no necesita esperar a que el proceso termine
+                            para continuar trabajando.
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>

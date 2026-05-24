@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/HttpStatusCodesMVC.styles.css" asp-append-version="true" />
+
 </head>
 <body>
     <header>
@@ -22,8 +23,20 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Statushttp" asp-action="Informativos">Informativos</a>
+                        </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Statushttp" asp-action="Exito">Éxito</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Statushttp" asp-action="Redireccion">	Redirección</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Statushttp" asp-action="Errcliente">Error del cliente</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Statushttp" asp-action="Errservidor">Error del servidor</a>
                         </li>
                     </ul>
                 </div>
@@ -38,7 +51,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2026 - HttpStatusCodesMVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2026 - Melissa Quesada Guitierrez
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
