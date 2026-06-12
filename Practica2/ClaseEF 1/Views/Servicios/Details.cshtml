@@ -1,0 +1,32 @@
+@model ClaseEF.Models.Servicio
+@{
+    ViewData["Title"] = "Detalle servicio";
+}
+
+<div class="form-card p-4">
+    <h1 class="h3">Detalle de servicio</h1>
+    <dl class="row mb-0">
+        <dt class="col-sm-3">Id</dt>
+        <dd class="col-sm-9">@Model.Id</dd>
+        <dt class="col-sm-3">Nombre</dt>
+        <dd class="col-sm-9">@Model.Nombre</dd>
+        <dt class="col-sm-3">Descripcion</dt>
+        <dd class="col-sm-9">@Model.Descripcion</dd>
+        <dt class="col-sm-3">Monto</dt>
+        <dd class="col-sm-9">@Model.Monto.ToString("C")</dd>
+        <dt class="col-sm-3">IVA</dt>
+        <dd class="col-sm-9">@Model.IVA.ToString("C")</dd>
+        <dt class="col-sm-3">Especialidad</dt>
+        <dd class="col-sm-9">@ViewBag.EspecialidadNombre</dd>
+        <dt class="col-sm-3">Especialista</dt>
+        <dd class="col-sm-9">@Model.Especialista</dd>
+        <dt class="col-sm-3">Clinica</dt>
+        <dd class="col-sm-9">@Model.Clinica</dd>
+        <dt class="col-sm-3">Activo</dt>
+        <dd class="col-sm-9">@(Model.ESTADO ? "Si" : "No")</dd>
+    </dl>
+    <div class="mt-3 d-flex gap-2">
+        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.Id">Editar</a>
+        <a class="btn btn-outline-secondary" asp-action="Index">Volver</a>
+    </div>
+</div>

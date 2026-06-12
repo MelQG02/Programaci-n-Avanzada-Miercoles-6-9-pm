@@ -1,0 +1,44 @@
+@model IEnumerable<ClaseEF.Models.Servicio>
+@{
+    ViewData["Title"] = "Servicios";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <div>
+        <h1 class="h3 mb-1">Servicios</h1>
+        <p class="text-muted mb-0">Aqui se nota bien el CRUD: la tabla se lee con EF y las altas/bajas pegan directo al SQL Server local.</p>
+    </div>
+    <a class="btn btn-primary" asp-action="Create">Nuevo servicio</a>
+</div>
+
+<div class="table-card p-3">
+    <table class="table table-hover align-middle mb-0">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Especialista</th>
+                <th>Monto</th>
+                <th>Activo</th>
+                <th class="text-end">Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nombre</td>
+                <td>@item.Especialista</td>
+                <td>@item.Monto.ToString("C")</td>
+                <td>@(item.ESTADO ? "Si" : "No")</td>
+                <td class="text-end">
+                    <a class="btn btn-sm btn-outline-primary" asp-action="Details" asp-route-id="@item.Id">Ver</a>
+                    <a class="btn btn-sm btn-outline-secondary" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                    <a class="btn btn-sm btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

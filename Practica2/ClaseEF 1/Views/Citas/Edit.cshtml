@@ -1,0 +1,21 @@
+@model ClaseEF.ViewModels.CitaFormViewModel
+@{
+    ViewData["Title"] = "Editar cita";
+}
+
+<div class="form-card p-4">
+    <h1 class="h3">Editar cita</h1>
+    <form asp-action="Edit" method="post">
+        <input asp-for="Cita.Id" type="hidden" />
+        <input asp-for="Cita.FechaDeRegistro" type="hidden" />
+        <partial name="_Form" model="Model" />
+        <div class="d-flex gap-2 mt-4">
+            <button type="submit" class="btn btn-primary">Actualizar</button>
+            <a class="btn btn-outline-secondary" asp-action="Index">Volver</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

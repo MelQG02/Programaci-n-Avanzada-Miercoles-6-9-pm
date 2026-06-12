@@ -1,0 +1,459 @@
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\appsettings.json
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ClaseEF.staticwebassets.runtime.json
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ClaseEF.staticwebassets.endpoints.json
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ClaseEF.exe
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ClaseEF.deps.json
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ClaseEF.runtimeconfig.json
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ClaseEF.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ClaseEF.pdb
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Humanizer.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raulm\source\repos\ClaseEF\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.csproj.AssemblyReference.cache
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.AssemblyInfoInputs.cache
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.AssemblyInfo.cs
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.csproj.CoreCompileInputs.cache
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.RazorAssemblyInfo.cache
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.RazorAssemblyInfo.cs
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\scopedcss\bundle\ClaseEF.styles.css
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\scopedcss\projectbundle\ClaseEF.bundle.scp.css
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\82ir2e6m9s-61n19gt1b8.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\azdqk17ebf-xtxxf3hu2r.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\jua998kpfq-bqjiyaj88i.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\czi13rnple-c2jlpeoesf.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\4rv44kmbb2-erw9l3u2r3.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\2fgdddne4h-aexeepp0ev.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\a4zwdizyux-d7shbmvgxk.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\i157r6y4gp-ausgxo2sd3.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\njlm2a3n4z-k8d9w2qqmf.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\m1fjrallw5-cosvhxvwiu.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\iwoc4zgjwv-ub07r2b239.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\mldhxzpxo5-fvhpjtyr6v.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\n2ooo34m8b-b7pk76d08c.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\yfy20nv4ma-fsbi9cje9m.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\gsu0uj4xrd-rzd6atqjts.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\30ikol2oa7-ee0r1s7dh0.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\wjyjihfkko-dxx9fxp4il.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\4clejsylys-jd9uben2k1.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\j3vclxqxnt-khv3u5hwcm.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\uojiq9nw73-r4e9w2rdcm.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\0gvk92wmf5-lcd1t2u6c8.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\54s9czw1g4-c2oey78nd0.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\66u1gyqz3h-tdbxkamptv.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\2x7ic9uu66-j5mq2jizvt.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\5rv0r2l35a-06098lyss8.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\x2xtzzp1h9-nvvlpmu67g.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\6bcwgo5i9t-s35ty4nyc5.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\vtf17gqqlt-pj5nd1wqec.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\7nffrdzt3i-46ein0sx1k.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\jgvzgpvvom-v0zj4ognzu.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\z16pk1qd7o-37tfw0ft22.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\yfkifxwdl3-hrwsygsryq.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\h173l6mvir-pk9g2wxc8p.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\agilvajjz5-ft3s53vfgj.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\5oq4osv9ct-6cfz1n2cew.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\e5a669tlx0-6pdc2jztkx.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\1zds09ijb8-493y06b0oq.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\dx15kiwu07-iovd86k7lj.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\h1unl5gip2-vr1egmr9el.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\b0mo56ootz-kbrnm935zg.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\c2b7wjein8-jj8uyg4cgr.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\zgpq18t6t5-y7v9cxd14o.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\saj7af2r4r-notf2xhcfb.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\01nb03xvvc-h1s4sie4z3.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\e6gx2s6fif-63fj8s7r0e.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\n48957sjv9-0j3bgjxly4.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\0755ho529n-47otxtyo56.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\r1f9j8pjv2-4v8eqarkd7.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\58aswii4qk-356vix0kms.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\mqc0rtra98-83jwlth58m.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\13kmrzjvkz-mrlpezrjn3.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\dh41z4jj8r-lzl9nlhx6b.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\duhasze2pk-ag7o75518u.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\azk6nik0ou-x0q3zqp4vz.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\d4h6ak0htq-0i3buxo5is.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\d6trmzwcj5-o1o13a6vjx.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\wo50gsyhfq-ttgo8qnofa.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\ekajc5m0oh-2z0ns9nrw6.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\2m98dd6pc1-muycvpuwrr.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\s2o1qjs1oq-87fc7y1x7t.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\5oad9laqjm-mlv21k5csn.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\2ohneb5k63-vp51anrec4.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\lirvkhabnx-vp51anrec4.gz
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.csproj.Up2Date
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.dll
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\refint\ClaseEF.dll
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.pdb
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ClaseEF.genruntimeconfig.cache
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\ref\ClaseEF.dll
+C:\Users\raulm\source\repos\ClaseEF\obj\Debug\net9.0\compressed\xsw2ii6dmz-48ydps0ghy.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\appsettings.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ClaseEF.staticwebassets.runtime.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ClaseEF.staticwebassets.endpoints.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ClaseEF.exe
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ClaseEF.deps.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ClaseEF.runtimeconfig.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ClaseEF.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ClaseEF.pdb
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Humanizer.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.csproj.AssemblyReference.cache
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.AssemblyInfoInputs.cache
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.AssemblyInfo.cs
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.csproj.CoreCompileInputs.cache
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.RazorAssemblyInfo.cache
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.RazorAssemblyInfo.cs
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.sourcelink.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\scopedcss\bundle\ClaseEF.styles.css
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\scopedcss\projectbundle\ClaseEF.bundle.scp.css
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\gffvjpntub-{0}-48ydps0ghy-48ydps0ghy.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\e3nn7e96rr-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\vhm6jdqkgf-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\vhuudfr9wm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\ls03moazu0-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\wshsfjnl52-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\qr4hebegec-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\oepojb3jf3-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\md9g73h4sf-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\5hhz1w4vxk-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\vyjwljidut-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\e60t4trwdm-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\bc9o31h0dg-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\xo9huwdrz1-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\vwqp2j2m81-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\wdo0p6j9jn-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\e7qhnlellu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\jbvjdwi6sm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\oygtgkixpy-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\u8tjuoxmmo-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\uo5e1pgzrg-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\tu6le58gn8-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\kpjsinofb7-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\gh1zh1agxm-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\pzl4qtc3s8-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\uvnu01ijwb-{0}-06098lyss8-06098lyss8.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\hfx132upoa-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\dsgru5osli-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\2myvjavrug-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\7hal4ne95j-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\fbxh5ysa3s-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\di5s8mvs1x-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\k11rb6yrwe-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\awctxnf7t3-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\j2etxynvmw-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\hes6ay6uoc-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\6hhwh85ejt-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\8b3sj0yuwf-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\bd770ds9bb-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\px5qs0wen1-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\cas60wpbav-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\ermae4icnk-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\r90k3mwlmv-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\r18dbifu9j-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\ds5dd6vy1m-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\k9mfc832r7-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\ieneqohynd-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\ghsx807qnc-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\6bj8fikvgx-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\3j96rax0wy-{0}-356vix0kms-356vix0kms.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\ec9nbc6at7-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\fefkbkazrj-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\h302ce8qit-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\s6f3jycaaa-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\9iatezo9fm-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\divswjo4l3-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\902b3wcx0n-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\6yth5owbo3-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\14aucdikvr-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\s0f5dhlcnv-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\u3pvaz697z-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\veywwz7w2a-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\ctyx3rfr9s-{0}-uho0ddkdfs-uho0ddkdfs.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\compressed\5yfzq8arzd-{0}-uho0ddkdfs-uho0ddkdfs.gz
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.csproj.Up2Date
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\refint\ClaseEF.dll
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.pdb
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ClaseEF.genruntimeconfig.cache
+C:\Users\50683\Desktop\ASP.NetMEli\Programaci-n-Avanzada-Miercoles-6-9-pm\Practica2\ClaseEF 1\obj\Debug\net9.0\ref\ClaseEF.dll

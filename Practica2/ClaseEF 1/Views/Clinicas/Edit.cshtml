@@ -1,0 +1,21 @@
+@model ClaseEF.Models.Clinica
+@{
+    ViewData["Title"] = "Editar clinica";
+}
+
+<div class="form-card p-4">
+    <h1 class="h3">Editar clinica</h1>
+    <p class="text-muted">Aqui EF carga la entidad con <code>FindAsync(id)</code>, se cambian propiedades y se guarda.</p>
+    <form asp-action="Edit" method="post">
+        <input asp-for="Id" type="hidden" />
+        <partial name="_Form" model="Model" />
+        <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-primary">Actualizar</button>
+            <a class="btn btn-outline-secondary" asp-action="Index">Volver</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

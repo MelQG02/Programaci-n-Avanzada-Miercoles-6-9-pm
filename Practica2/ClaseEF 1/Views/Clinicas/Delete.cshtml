@@ -1,0 +1,22 @@
+@model ClaseEF.Models.Clinica
+@{
+    ViewData["Title"] = "Eliminar clinica";
+}
+
+<div class="form-card p-4">
+    <h1 class="h3 text-danger">Eliminar clinica</h1>
+    <p>Esta accion usa <code>Remove</code> y luego <code>SaveChangesAsync()</code>.</p>
+    <dl class="row">
+        <dt class="col-sm-3">Nombre</dt>
+        <dd class="col-sm-9">@Model.Nombre</dd>
+        <dt class="col-sm-3">Direccion</dt>
+        <dd class="col-sm-9">@Model.Direccion</dd>
+    </dl>
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-danger">Eliminar</button>
+            <a class="btn btn-outline-secondary" asp-action="Index">Cancelar</a>
+        </div>
+    </form>
+</div>

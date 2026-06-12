@@ -1,0 +1,35 @@
+@model ClaseEF.ViewModels.CitaFormViewModel
+
+<div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+@if (!Model.Servicios.Any())
+{
+    <div class="alert alert-warning">
+        No hay servicios disponibles. Primero crea un servicio para poder registrar citas.
+    </div>
+}
+<div class="row g-3">
+    <div class="col-md-4">
+        <label asp-for="Cita.MontoTotal" class="form-label"></label>
+        <input asp-for="Cita.MontoTotal" class="form-control" />
+        <span asp-validation-for="Cita.MontoTotal" class="text-danger"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Cita.FechaDeLaCita" class="form-label"></label>
+        <input asp-for="Cita.FechaDeLaCita" class="form-control" type="datetime-local" />
+        <span asp-validation-for="Cita.FechaDeLaCita" class="text-danger"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Cita.IdServicio" class="form-label"></label>
+        <select asp-for="Cita.IdServicio" asp-items="Model.Servicios" class="form-select">
+            <option value="">Selecciona un servicio</option>
+        </select>
+        <span asp-validation-for="Cita.IdServicio" class="text-danger"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Cita.IdPaciente" class="form-label"></label>
+        <select asp-for="Cita.IdPaciente" asp-items="Model.Pacientes" class="form-select">
+            <option value="">Selecciona un Paciente</option>
+        </select>
+        <span asp-validation-for="Cita.IdPaciente" class="text-danger"></span>
+    </div>
+</div>

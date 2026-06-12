@@ -1,0 +1,60 @@
+@model ClaseEF.ViewModels.ServicioFormViewModel
+
+<div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+@if (!Model.Especialidades.Any())
+{
+    <div class="alert alert-warning">
+        No hay especialidades registradas. Primero crea una en el modulo de especialidades para poder guardar servicios.
+    </div>
+}
+<div class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="Servicio.Nombre" class="form-label"></label>
+        <input asp-for="Servicio.Nombre" class="form-control" />
+        <span asp-validation-for="Servicio.Nombre" class="text-danger"></span>
+    </div>
+    <div class="col-md-6">
+        <label asp-for="Servicio.Especialista" class="form-label"></label>
+        <input asp-for="Servicio.Especialista" class="form-control" />
+        <span asp-validation-for="Servicio.Especialista" class="text-danger"></span>
+    </div>
+    <div class="col-12">
+        <label asp-for="Servicio.Descripcion" class="form-label"></label>
+        <input asp-for="Servicio.Descripcion" class="form-control" />
+        <span asp-validation-for="Servicio.Descripcion" class="text-danger"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Servicio.Monto" class="form-label"></label>
+        <input asp-for="Servicio.Monto" class="form-control" />
+        <span asp-validation-for="Servicio.Monto" class="text-danger"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Servicio.IVA" class="form-label"></label>
+        <input asp-for="Servicio.IVA" class="form-control" />
+        <span asp-validation-for="Servicio.IVA" class="text-danger"></span>
+    </div>
+    <div class="col-md-4">
+        <label asp-for="Servicio.Especialidad" class="form-label"></label>
+        <select asp-for="Servicio.Especialidad" asp-items="Model.Especialidades" class="form-select">
+            <option value="">Selecciona una especialidad</option>
+        </select>
+        <span asp-validation-for="Servicio.Especialidad" class="text-danger"></span>
+    </div>
+    <div class="col-md-8">
+        <label asp-for="Servicio.Clinica" class="form-label"></label>
+        <input asp-for="Servicio.Clinica" class="form-control" list="clinicasDisponibles" />
+        <datalist id="clinicasDisponibles">
+            @foreach (var clinica in Model.ClinicasExistentes)
+            {
+                <option value="@clinica"></option>
+            }
+        </datalist>
+        <span asp-validation-for="Servicio.Clinica" class="text-danger"></span>
+    </div>
+    <div class="col-md-4 d-flex align-items-end">
+        <div class="form-check">
+            <input asp-for="Servicio.ESTADO" class="form-check-input" />
+            <label asp-for="Servicio.ESTADO" class="form-check-label"></label>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,26 @@
+@model ClaseEF.Models.Paciente
+@{
+    ViewData["Title"] = "Detalle Paciente";
+}
+
+<div class="form-card p-4">
+    <h1 class="h3">Detalle de Paciente</h1>
+    <dl class="row">
+        <dt class="col-sm-3">Persona</dt>
+        <dd class="col-sm-9">@Model.NombreDeLaPersona</dd>
+        <dt class="col-sm-3">Identificacion</dt>
+        <dd class="col-sm-9">@Model.Identificacion</dd>
+        <dt class="col-sm-3">Telefono</dt>
+        <dd class="col-sm-9">@Model.Telefono</dd>
+        <dt class="col-sm-3">Correo</dt>
+        <dd class="col-sm-9">@Model.Correo</dd>
+        <dt class="col-sm-3">Direccion</dt>
+        <dd class="col-sm-9">@Model.Direccion</dd>
+        <dt class="col-sm-3">Fecha</dt>
+        <dd class="col-sm-9">@Model.FechaNacimiento.ToString("f")</dd>
+    </dl>
+    <div class="mt-3 d-flex gap-2">
+        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.Id">Editar</a>
+        <a class="btn btn-outline-secondary" asp-action="Index">Volver</a>
+    </div>
+</div>

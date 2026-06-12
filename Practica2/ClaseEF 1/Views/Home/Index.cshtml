@@ -1,0 +1,75 @@
+@model ClaseEF.ViewModels.HomeDashboardViewModel
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="hero-panel p-4 p-lg-5 mb-4">
+    <span class="badge bg-light text-primary mb-3">Proyecto live contra SQL Server local</span>
+    <h1 class="display-6 fw-bold">ClaseEF</h1>
+    <p class="lead mb-3">
+        Este proyecto explica Entity Framework Core de manera basica, pero trabajando de verdad sobre tu base
+        <strong>CASO_PRACTICO_MEDICO</strong> en <strong>localhost</strong>.
+    </p>
+    <p class="mb-0">
+        Flujo recomendado: <strong>Clinicas</strong> -> <strong>Especialidades</strong> -> <strong>Servicios</strong> -> <strong>Citas</strong>.
+    </p>
+</div>
+
+<div class="row g-3 mb-4">
+    <div class="col-md-3">
+        <div class="stat-card">
+            <div class="stat-label">Clinicas</div>
+            <div class="stat-value">@Model.TotalClinicas</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="stat-card">
+            <div class="stat-label">Especialidades</div>
+            <div class="stat-value">@Model.TotalEspecialidades</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="stat-card">
+            <div class="stat-label">Servicios</div>
+            <div class="stat-value">@Model.TotalServicios</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="stat-card">
+            <div class="stat-label">Citas</div>
+            <div class="stat-value">@Model.TotalCitas</div>
+        </div>
+    </div>
+</div>
+
+<div class="row g-4">
+    <div class="col-lg-7">
+        <div class="card shadow-sm h-100">
+            <div class="card-body">
+                <h2 class="h4">Que estas viendo aqui</h2>
+                <ol class="mb-0">
+                    <li><code>ClaseEfContext</code> representa la conexion y las tablas.</li>
+                    <li>Las entidades <code>CITA</code>, <code>Clinica</code>, <code>Especialidade</code> y <code>Servicio</code> se generaron desde la base real.</li>
+                    <li>Cada controlador usa EF para hacer CRUD con <code>Add</code>, <code>FindAsync</code>, <code>SaveChangesAsync</code> y <code>Remove</code>.</li>
+                    <li>Cuando guardas un formulario, el cambio llega a tu SQL Server local de inmediato.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-5">
+        <div class="card shadow-sm h-100">
+            <div class="card-body">
+                <h2 class="h4">Cadena de conexion activa</h2>
+                <pre class="connection-preview">@Model.ConnectionString</pre>
+                <p class="small text-muted mb-3">
+                    Script para recrear la base con datos demo:
+                    <code>Database/01_Crear_CASO_PRACTICO_MEDICO_Demo.sql</code>
+                </p>
+                <div class="d-grid gap-2">
+                    <a class="btn btn-primary" asp-controller="Servicios" asp-action="Index">Ir a Servicios</a>
+                    <a class="btn btn-outline-primary" asp-controller="Citas" asp-action="Index">Ir a Citas</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

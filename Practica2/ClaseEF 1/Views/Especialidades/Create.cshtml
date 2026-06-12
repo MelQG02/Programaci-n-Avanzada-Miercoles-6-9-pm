@@ -1,0 +1,20 @@
+@model ClaseEF.Models.Especialidade
+@{
+    ViewData["Title"] = "Nueva especialidad";
+}
+
+<div class="form-card p-4">
+    <h1 class="h3">Crear especialidad</h1>
+    <p class="text-muted">Esta tabla alimenta el formulario de servicios.</p>
+    <form asp-action="Create" method="post">
+        <partial name="_Form" model="Model" />
+        <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-primary">Guardar</button>
+            <a class="btn btn-outline-secondary" asp-action="Index">Volver</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

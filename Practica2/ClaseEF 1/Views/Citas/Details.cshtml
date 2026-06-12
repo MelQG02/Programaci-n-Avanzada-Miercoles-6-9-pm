@@ -1,0 +1,22 @@
+@model ClaseEF.ViewModels.CitaDetailsViewModel
+@{
+    ViewData["Title"] = "Detalle cita";
+}
+
+<div class="form-card p-4">
+    <h1 class="h3">Detalle de cita</h1>
+    <dl class="row mb-0">
+        <dt class="col-sm-3">Id</dt>
+        <dd class="col-sm-9">@Model.Cita.Id</dd>
+        <dt class="col-sm-3">Persona</dt>
+        <dd class="col-sm-9">@Model.NombrePaciente</dd>
+        <dt class="col-sm-3">Servicio</dt>
+        <dd class="col-sm-9">@Model.NombreServicio</dd>
+        <dt class="col-sm-3">Fecha cita</dt>
+        <dd class="col-sm-9">@Model.Cita.FechaDeLaCita.ToString("f")</dd>
+    </dl>
+    <div class="mt-3 d-flex gap-2">
+        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.Cita.Id">Editar</a>
+        <a class="btn btn-outline-secondary" asp-action="Index">Volver</a>
+    </div>
+</div>
