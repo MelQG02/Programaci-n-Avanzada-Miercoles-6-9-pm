@@ -1,0 +1,114 @@
+﻿@model pruebaCaso1.ViewModels.ReservasHabitacionViewModel
+
+@{
+    ViewData["Title"] = "Reservas";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <div>
+        <h1 class="h3 mb-1">Reservas de la habitación</h1>
+        <p class="text-muted mb-0">
+            Historial de reservaciones realizadas para la habitación seleccionada.
+        </p>
+    </div>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Volver
+    </a>
+</div>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-header">
+        <strong>Información de la habitación</strong>
+    </div>
+
+    <div class="card-body">
+
+        <div class="row">
+
+            <div class="col-md-3">
+                <strong>Código</strong>
+                <p>@Model.Habitacion.CodigoDeHabitacion</p>
+            </div>
+
+            <div class="col-md-3">
+                <strong>Nombre</strong>
+                <p>@Model.Habitacion.NombreDeHabitacion</p>
+            </div>
+
+            <div class="col-md-2">
+                <strong>Ubicación</strong>
+                <p>@Model.Habitacion.Ubicacion</p>
+            </div>
+
+            <div class="col-md-2">
+                <strong>Tipo</strong>
+                <p>
+                    @(Model.Habitacion.TipoDeHabitacion == 1 ? "Junior" :
+                        Model.Habitacion.TipoDeHabitacion == 2 ? "Superior" : "Suite")
+                </p>
+            </div>
+
+            <div class="col-md-2">
+                <strong>Costo Reserva</strong>
+                <p>@Model.Habitacion.CostoDeReserva.ToString("C")</p>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<div class="table-card p-3">
+
+    <table class="table table-hover align-middle mb-0">
+
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Teléfono</th>
+                <th>Correo</th>
+                <th>Identificación</th>
+                <th>Monto Total</th>
+                <th>Fecha Nacimiento</th>
+                <th>Fecha Inicio</th>
+                <th>Fecha Fin</th>
+                <th>Fecha de registro</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @if (Model.Reservaciones.Any())
+            {
+                @foreach (var item in Model.Reservaciones)
+                {
+                    <tr>
+
+                        <td>@item.NombreDeLaPersona</td>
+                        <td>@item.Telefono</td>
+                        <td>@item.Correo</td>
+                        <td>@item.Identificacion</td>
+                        <td>@item.MontoTotal.ToString("C")</td>
+                        <td>@item.FechaNacimiento.ToString("dd/MM/yyyy")</td>
+                        <td>@item.FechaInicioReserva.ToString("dd/MM/yyyy")</td>
+                        <td>@item.FechaFinReserva.ToString("dd/MM/yyyy")</td>
+                        <td>@item.FechaDeRegistro.ToString("dd/MM/yyyy")</td>
+
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="8" class="text-center text-muted">
+                        No existen reservaciones registradas para esta habitación.
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+</div>

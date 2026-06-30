@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Hotel.com";
+}
+
+<div class="hero-panel text-white rounded-4 p-5 mb-5 shadow"
+     style="background: linear-gradient(135deg,#0b2a4a,#1d5ea8); position:relative; overflow:hidden;">
+
+    <div style="position:absolute; inset:0;
+        background:url('https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1920&q=80') center/cover;
+        opacity:.12;">
+    </div>
+
+    <div class="position-relative">
+        <span class="badge bg-light text-primary mb-3 px-3 py-2">
+            Sistema de Gestión Hotelera
+        </span>
+
+        <h1 class="display-4 fw-bold">Hotel.com</h1>
+
+        <p class="lead mb-3">
+            Administra habitaciones y reservas de forma rápida, sencilla y en tiempo real.
+        </p>
+
+        <hr class="border-light opacity-50">
+
+        <p class="mb-0 text-light">
+            Bienvenido al panel principal. Selecciona una opción para comenzar.
+        </p>
+    </div>
+</div>
+
+<div class="row g-4 justify-content-center">
+
+    <!-- Habitaciones -->
+    <div class="col-lg-5">
+        <div class="card border-0 shadow h-100 rounded-4 card-home">
+            <div class="card-body text-center p-5">
+
+                <div class="rounded-circle bg-primary bg-opacity-10 d-inline-flex align-items-center justify-content-center mb-4"
+                     style="width:90px; height:90px;">
+                    <i class="bi bi-door-open-fill fs-1 text-primary"></i>
+                </div>
+
+                <h3 class="fw-bold">Habitaciones</h3>
+
+                <p class="text-muted">
+                    Consulta, agrega, modifica o elimina habitaciones disponibles.
+                </p>
+
+                <a asp-controller="Habitaciones"asp-action="Index"class="btn btn-primary px-4">Administrar<i class="bi bi-arrow-right ms-1"></i></a>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Reservas -->
+    <div class="col-lg-5">
+        <div class="card border-0 shadow h-100 rounded-4 card-home">
+            <div class="card-body text-center p-5">
+
+                <div class="rounded-circle bg-success bg-opacity-10 d-inline-flex align-items-center justify-content-center mb-4"
+                     style="width:90px; height:90px;">
+                    <i class="bi bi-calendar-check-fill fs-1 text-success"></i>
+                </div>
+
+                <h3 class="fw-bold">Reservas</h3>
+
+                <p class="text-muted">
+                    Registra nuevas reservas y consulta las existentes.
+                </p>
+
+                <a asp-controller="Reservaciones" asp-action="Index" class="btn btn-success px-4">Reservar<i class="bi bi-arrow-right ms-1"></i></a>
+
+            </div>
+        </div>
+    </div>
+
+</div>
