@@ -3055,11 +3055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\memeq\\Desktop\\caso\\pruebaCaso1\\pruebaCaso1.csproj",
+      "projectUniqueName": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\pruebaCaso1.csproj",
       "projectName": "pruebaCaso1",
-      "projectPath": "C:\\Users\\memeq\\Desktop\\caso\\pruebaCaso1\\pruebaCaso1.csproj",
+      "projectPath": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\pruebaCaso1.csproj",
       "packagesPath": "C:\\Users\\memeq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\memeq\\Desktop\\caso\\pruebaCaso1\\obj\\",
+      "outputPath": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

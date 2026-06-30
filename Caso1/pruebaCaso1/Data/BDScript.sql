@@ -1,44 +1,42 @@
--- Crear la base de datos
-CREATE DATABASE caso1;
+
+CREATE DATABASE CASO_PRACTICO_RESERVACIONES
+
 GO
 
--- Usar la base de datos
-USE caso1;
+USE CASO_PRACTICO_RESERVACIONES
+
 GO
 
--- Tabla Habitaciones
-CREATE TABLE Habitaciones (
-    Id INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-    CodigoDeHabitacion VARCHAR(7) NOT NULL,
-    NombreDeHabitacion VARCHAR(30) NOT NULL,
-    CantidadDeHuespedesPermitidos INT NOT NULL CHECK (CantidadDeHuespedesPermitidos > 0),
-    CantidadDeCamas INT NOT NULL,
-    CantidadDeBanos INT NOT NULL,
-    Ubicacion VARCHAR(10) NOT NULL,
-    EncargadoDeLimpieza VARCHAR(100) NOT NULL,
-    TipoDeHabitacion INT NOT NULL CHECK (TipoDeHabitacion IN (1, 2, 3)),
-    CostoDeLimpieza DECIMAL(18,2) NOT NULL CHECK (CostoDeLimpieza > 0),
-    CostoDeReserva DECIMAL(18,2) NOT NULL CHECK (CostoDeReserva > 0),
-    FechaDeRegistro DATETIME NOT NULL DEFAULT GETDATE(),
-    FechaDeModificacion DATETIME NULL,
-    Estado BIT NOT NULL DEFAULT 1
+CREATE TABLE HABITACIONES (
+    Id int identity (1,1) not null,
+    CodigoDeHabitacion varchar(7) not null,
+    NombreDeHabitacion varchar(30) not null,
+	CantidadDeHuespedesPermitidos int not null,
+	CantidadDeCamas int not null,
+	CantidadDeBanos int not null,
+	Ubicacion varchar(10) not null,
+	EncargadoDeLimpieza varchar(100) not null,
+	TipoDeHabitacion int not null,
+	CostoDeLimpieza decimal(18,2) not null,
+	CostoDeReserva decimal(18,2) not null,
+	FechaDeRegistro datetime not null,
+	FechaDeModificacion datetime,
+	Estado bit,
 );
-GO
 
--- Tabla Reservaciones
-CREATE TABLE Reservaciones (
-    Id INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-    NombreDeLaPersona VARCHAR(150) NOT NULL,
-    Identificacion VARCHAR(30) NOT NULL,
-    Telefono VARCHAR(10) NOT NULL,
-    Correo VARCHAR(50) NOT NULL,
-    FechaNacimiento DATETIME NOT NULL,
-    Direccion VARCHAR(200) NOT NULL,
-    MontoTotal DECIMAL(18,2) NOT NULL CHECK (MontoTotal >= 0),
-    FechaInicioReserva DATETIME NOT NULL,
-    FechaFinReserva DATETIME NOT NULL,
-    FechaDeRegistro DATETIME NOT NULL DEFAULT GETDATE(),
-    IdHabitacion INT NOT NULL REFERENCES Habitaciones(Id)  -- Llave foránea inline
+go
+
+CREATE TABLE RESERVACIONES (
+    Id int identity (1,1) not null,
+    NombreDeLaPersona varchar(150) not null,
+    Identificacion varchar(30) not null,
+	Telefono varchar(10) not null,
+	Correo varchar(50) not null,
+	FechaNacimiento datetime not null,
+	Direccion varchar(200) not null,
+	MontoTotal decimal(18,2) not null,
+	FechaInicioReserva datetime not null,
+	FechaFinReserva datetime not null,
+	FechaDeRegistro datetime not null,
+	IdHabitacion int not null,
 );
-GO
-

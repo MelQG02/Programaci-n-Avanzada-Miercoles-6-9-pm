@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4E6F6Yfd5bw=",
+  "dgSpecHash": "YeJt5rv9Ofo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\memeq\\Desktop\\caso\\pruebaCaso1\\pruebaCaso1.csproj",
+  "projectFilePath": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\pruebaCaso1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\memeq\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\memeq\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
