@@ -85,7 +85,7 @@ namespace ClaseEF.Controllers
 
             return View(paciente);
         }
-        //Recibe los datos del formulario para editar un paciente existente,
+        //Recibe los datos del formulario para editar un paciente existente
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Paciente paciente)

@@ -60,7 +60,8 @@ CREATE TABLE dbo.Pacientes
     Telefono NVARCHAR(10) NOT NULL,
     Correo NVARCHAR(50) NOT NULL,
     FechaNacimiento DATETIME NOT NULL,
-    Direccion NVARCHAR(200) NOT NULL
+    Direccion NVARCHAR(200) NOT NULL,
+    UserId NVARCHAR(450) NULL
 );
 GO
 

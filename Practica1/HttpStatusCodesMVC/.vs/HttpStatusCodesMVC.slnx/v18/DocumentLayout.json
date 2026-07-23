@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica1\\HttpStatusCodesMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F55DAD04-BCD7-08DB-4D09-80705E93EB55}|HttpStatusCodesMVC.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica1\\httpstatuscodesmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F55DAD04-BCD7-08DB-4D09-80705E93EB55}|HttpStatusCodesMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55DAD04-BCD7-08DB-4D09-80705E93EB55}|HttpStatusCodesMVC.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica1\\httpstatuscodesmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55DAD04-BCD7-08DB-4D09-80705E93EB55}|HttpStatusCodesMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica1\\HttpStatusCodesMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica1\\HttpStatusCodesMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T09:08:08.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica1\\HttpStatusCodesMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica1\\HttpStatusCodesMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-26T09:07:57.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

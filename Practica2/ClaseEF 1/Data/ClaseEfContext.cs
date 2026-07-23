@@ -1,9 +1,11 @@
 using ClaseEF.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ClaseEF.Data;
 
-public partial class ClaseEfContext : DbContext
+public partial class ClaseEfContext : IdentityDbContext<ApplicationUser>
 {
     public ClaseEfContext(DbContextOptions<ClaseEfContext> options)
         : base(options)
@@ -11,17 +13,17 @@ public partial class ClaseEfContext : DbContext
     }
 
     public virtual DbSet<CITA> CITAs { get; set; }
-
     public virtual DbSet<Clinica> Clinicas { get; set; }
-
     public virtual DbSet<Especialidade> Especialidades { get; set; }
-
     public virtual DbSet<Servicio> Servicios { get; set; }
-
     public virtual DbSet<Paciente> Pacientes { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
+
+        modelBuilder.Entity<IdentityPasskeyData>().HasNoKey();
+
         modelBuilder.Entity<CITA>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK_dbo.CITAS");

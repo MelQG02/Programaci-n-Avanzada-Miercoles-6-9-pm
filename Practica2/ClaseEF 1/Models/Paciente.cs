@@ -10,6 +10,6 @@
         public string Correo { get; set; } = null!;
         public DateTime FechaNacimiento { get; set; } 
         public string Direccion { get; set; } = null!;
-
+        public string? UserId { get; set; }
     }
 }

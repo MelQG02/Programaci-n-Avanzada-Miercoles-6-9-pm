@@ -1,6 +1,7 @@
 using ClaseEF.Data;
 using ClaseEF.Models;
 using ClaseEF.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -42,6 +43,7 @@ public class ServiciosController : Controller
         return View(servicio);
     }
 
+    [Authorize(Roles = "Administrador")]
     public async Task<IActionResult> Create()
     {
         return View(await BuildViewModelAsync(new Servicio
@@ -52,6 +54,7 @@ public class ServiciosController : Controller
     }
 
     [HttpPost]
+    [Authorize(Roles = "Administrador")]
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> Create(ServicioFormViewModel viewModel)
     {

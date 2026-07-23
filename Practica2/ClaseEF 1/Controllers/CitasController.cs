@@ -1,49 +1,56 @@
 using ClaseEF.Data;
 using ClaseEF.Models;
 using ClaseEF.ViewModels;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 namespace ClaseEF.Controllers;
 
+[Authorize]
 public class CitasController : Controller
 {
     private readonly ClaseEfContext _context;
+    private readonly UserManager<ApplicationUser> _userManager;
 
-    public CitasController(ClaseEfContext context)
+    public CitasController(ClaseEfContext context, UserManager<ApplicationUser> userManager)
     {
         _context = context;
+        _userManager = userManager;
     }
 
-    // Lista las citas ordenadas por fecha de la cita, mostrando el
-    // nombre del servicio y el nombre del paciente asociados a cada cita
     public async Task<IActionResult> Index()
     {
         var servicios = await _context.Servicios.ToDictionaryAsync(s => s.Id, s => s.Nombre);
         var pacientes = await _context.Pacientes.ToDictionaryAsync(p => p.Id, p => p.NombreDeLaPersona);
 
-        var model = await _context.CITAs
+        var query = _context.CITAs.AsQueryable();
+
+        if (!User.IsInRole("Administrador"))
+        {
+            var userId = _userManager.GetUserId(User);
+            var miPaciente = await _context.Pacientes.FirstOrDefaultAsync(p => p.UserId == userId);
+            query = miPaciente is null
+                ? query.Where(c => false) // sin paciente vinculado, no ve nada
+                : query.Where(c => c.IdPaciente == miPaciente.Id);
+        }
+
+        var model = await query
             .OrderByDescending(c => c.FechaDeLaCita)
-            .Select(c => new CitaListItemViewModel
-            {
-                Cita = c
-            })
+            .Select(c => new CitaListItemViewModel { Cita = c })
             .ToListAsync();
 
         foreach (var item in model)
         {
-            item.NombreServicio = servicios.TryGetValue(item.Cita.IdServicio, out var nombre)
-                ? nombre
-                : "Sin servicio";
-
-            item.NombrePaciente = pacientes.TryGetValue(item.Cita.IdPaciente, out var paciente)
-                ? paciente
-                : "Sin paciente";
+            item.NombreServicio = servicios.TryGetValue(item.Cita.IdServicio, out var nombre) ? nombre : "Sin servicio";
+            item.NombrePaciente = pacientes.TryGetValue(item.Cita.IdPaciente, out var paciente) ? paciente : "Sin paciente";
         }
 
         return View(model);
     }
+
     // Muestra los detalles de una cita, incluyendo el nombre del servicio asociado
     public async Task<IActionResult> Details(int? id)
     {
@@ -140,6 +147,8 @@ public class CitasController : Controller
         TempData["SuccessMessage"] = "Cita actualizada con Entity Framework.";
         return RedirectToAction(nameof(Index));
     }
+
+    [Authorize(Roles = "Administrador")]
     // Muestra el formulario para eliminar una cita existente, mostrando los detalles de la cita y el nombre del servicio asociado
     public async Task<IActionResult> Delete(int? id)
     {
