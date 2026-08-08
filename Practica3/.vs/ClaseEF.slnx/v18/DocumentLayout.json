@@ -3,7 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\migrations\\claseefcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\data\\claseefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\database\\01_crear_caso_practico_medico_demo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -12,10 +57,7 @@
       "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\migrations\\20260723022952_addidentityconroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F90204D7-3C7D-CD2A-65C3-8249D5E88DE0}|..\\Practica2\\ClaseEF 1\\ClaseEF.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\practica2\\claseef 1\\database\\01_crear_caso_practico_medico_demo.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,11 +67,218 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Controllers\\PacientesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T02:47:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T02:47:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CITA.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Models\\CITA.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Models\\CITA.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Models\\CITA.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Models\\CITA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T02:47:13.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-08T02:22:12.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Controllers\\CitasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T01:25:30.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T01:18:00.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Program.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Program.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T02:19:19.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\appsettings.json",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\appsettings.json",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-23T02:24:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClaseEfContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Migrations\\ClaseEfContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Migrations\\ClaseEfContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Migrations\\ClaseEfContextModelSnapshot.cs*",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Migrations\\ClaseEfContextModelSnapshot.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T02:09:53.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T01:39:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-08T01:38:56.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-08T00:15:09.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T00:22:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClaseEfContext.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Data\\ClaseEfContext.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Data\\ClaseEfContext.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Data\\ClaseEfContext.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Data\\ClaseEfContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T02:21:23.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T00:22:27.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "01_Crear_CASO_PRACTICO_MEDICO_Demo.sql ",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Database\\01_Crear_CASO_PRACTICO_MEDICO_Demo.sql",
+              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Database\\01_Crear_CASO_PRACTICO_MEDICO_Demo.sql",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Database\\01_Crear_CASO_PRACTICO_MEDICO_Demo.sql",
+              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Database\\01_Crear_CASO_PRACTICO_MEDICO_Demo.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-08-07T20:51:47.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Models\\Paciente.cs",
               "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Models\\Paciente.cs",
@@ -41,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "20260723022952_AddIdentityConRoles.cs",
               "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Migrations\\20260723022952_AddIdentityConRoles.cs",
               "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Migrations\\20260723022952_AddIdentityConRoles.cs",
@@ -50,43 +299,6 @@
               "ViewState": "AgIAAOcAAAAAAAAAAAAQwPMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T02:31:51.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\appsettings.json",
-              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\appsettings.json",
-              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-23T02:24:40.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Program.cs",
-              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Program.cs",
-              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAiwEwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T02:19:19.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClaseEfContext.cs",
-              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Data\\ClaseEfContext.cs",
-              "RelativeDocumentMoniker": "..\\Practica2\\ClaseEF 1\\Data\\ClaseEfContext.cs",
-              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Practica2\\ClaseEF 1\\Data\\ClaseEfContext.cs",
-              "RelativeToolTip": "..\\Practica2\\ClaseEF 1\\Data\\ClaseEfContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T02:21:23.032Z",
-              "EditorCaption": ""
             }
           ]
         }

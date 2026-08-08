@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Hotel.com";
+}
+
+<div class="hero-panel p-4 p-lg-5 mb-4">
+    <span class="badge bg-light text-primary mb-3">Sistema de Gestión Hotelera – SQL Server</span>
+    <h1 class="display-6 fw-bold">Hotel.com</h1>
+    <p class="lead mb-3">
+        Administra tus habitaciones, realiza reservas y consulta el historial completo.
+        Datos conectados a tu base <strong>caso1</strong> en <strong>localhost</strong>.
+    </p>
+    <p class="mb-0">
+        Flujo recomendado: <strong>Habitaciones</strong> → <strong>Reservar</strong> → <strong>Reservas Admin</strong>.
+    </p>
+</div>
+
+
+<!-- Tarjetas de acceso rápido -->
+<div class="row g-4">
+    <div class="col-lg-7">
+        <div class="card shadow-sm h-100">
+            <div class="card-body">
+                <h2 class="h4">¿Qué puedes hacer aquí?</h2>
+                <ol class="mb-0">
+                    <li><strong>Habitaciones</strong> – Registra, edita o inactiva habitaciones. Controla su estado y disponibilidad.</li>
+                    <li><strong>Reservar</strong> – Selecciona una habitación disponible y realiza una reserva ingresando los datos del cliente.</li>
+                    <li><strong>Reservas Admin</strong> – Visualiza el historial completo de reservas y filtra por habitación.</li>
+                    <li>Todos los cambios se guardan al instante en tu <code>SQL Server</code> local mediante <strong>Entity Framework Core</strong>.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-5">
+        <div class="card shadow-sm h-100">
+            <div class="card-body">
+                <h2 class="h4">Conexión activa</h2>
+                <pre class="connection-preview">@Model.ConnectionString</pre>
+                <p class="small text-muted mb-3">
+                    Script de creación de la base: <code>Scripts/01_Crear_caso1.sql</code>
+                </p>
+                <div class="d-grid gap-2">
+                    <a class="btn btn-primary" asp-controller="Habitaciones" asp-action="Index">
+                        <i class="bi bi-door-open"></i> Ir a Habitaciones
+                    </a>
+                    <a class="btn btn-outline-primary" asp-controller="Reservas" asp-action="Index">
+                        <i class="bi bi-calendar-check"></i> Ir a Reservar
+                    </a>
+                    <a class="btn btn-outline-secondary" asp-controller="ReservaAdmin" asp-action="Index">
+                        <i class="bi bi-clock-history"></i> Ver Historial
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

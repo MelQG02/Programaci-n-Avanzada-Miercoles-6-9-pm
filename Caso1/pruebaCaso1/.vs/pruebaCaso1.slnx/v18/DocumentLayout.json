@@ -1,54 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\",
+  "WorkspaceRootPath": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\views\\habitaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:views\\habitaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\views\\reservaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:views\\reservaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\views\\reservaciones\\reserve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:views\\reservaciones\\reserve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\controllers\\reservacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:controllers\\reservacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\views\\habitaciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:views\\habitaciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\views\\habitaciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:views\\habitaciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\data\\bdscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:data\\bdscript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\memeq\\desktop\\caso\\repo\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|c:\\users\\50683\\desktop\\asp.netmeli\\programaci-n-avanzada-miercoles-6-9-pm\\caso1\\pruebacaso1\\data\\claseefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9F03B-E66A-1473-CB42-D8521749D84D}|pruebaCaso1.csproj|solutionrelative:data\\claseefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,156 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-30T18:50:46.455Z",
+              "Title": "ClaseEfContext.cs",
+              "DocumentMoniker": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Data\\ClaseEfContext.cs",
+              "RelativeDocumentMoniker": "Data\\ClaseEfContext.cs",
+              "ToolTip": "C:\\Users\\50683\\Desktop\\ASP.NetMEli\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Data\\ClaseEfContext.cs",
+              "RelativeToolTip": "Data\\ClaseEfContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T23:43:45.225Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Habitaciones\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Habitaciones\\Index.cshtml",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Habitaciones\\Index.cshtml",
-              "RelativeToolTip": "Views\\Habitaciones\\Index.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAIwEEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T18:33:43.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwDQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T18:30:07.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T18:29:39.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Reserve.cshtml",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Reservaciones\\Reserve.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservaciones\\Reserve.cshtml",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Reservaciones\\Reserve.cshtml",
-              "RelativeToolTip": "Views\\Reservaciones\\Reserve.cshtml",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAIwJYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T18:24:50.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReservacionesController.cs",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Controllers\\ReservacionesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReservacionesController.cs",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Controllers\\ReservacionesController.cs",
-              "RelativeToolTip": "Controllers\\ReservacionesController.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAIwIYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T18:10:42.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Reservaciones\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservaciones\\Index.cshtml",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Reservaciones\\Index.cshtml",
-              "RelativeToolTip": "Views\\Reservaciones\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T18:09:34.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HabitacionesController.cs",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Controllers\\HabitacionesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HabitacionesController.cs",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Controllers\\HabitacionesController.cs",
-              "RelativeToolTip": "Controllers\\HabitacionesController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAywHgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T18:10:37.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Habitaciones\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Habitaciones\\Create.cshtml",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Habitaciones\\Create.cshtml",
-              "RelativeToolTip": "Views\\Habitaciones\\Create.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFUAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T18:23:45.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BDScript.sql",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Data\\BDScript.sql",
-              "RelativeDocumentMoniker": "Data\\BDScript.sql",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Data\\BDScript.sql",
-              "RelativeToolTip": "Data\\BDScript.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-06-30T18:10:49.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Habitaciones\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Habitaciones\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Views\\Habitaciones\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Habitaciones\\Edit.cshtml",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFMAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-30T18:18:15.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\memeq\\Desktop\\caso\\repo\\Programaci-n-Avanzada-Miercoles-6-9-pm\\Caso1\\pruebaCaso1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T18:10:40.836Z"
             }
           ]
         }

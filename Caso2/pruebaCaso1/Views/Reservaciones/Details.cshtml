@@ -1,0 +1,114 @@
+@model pruebaCaso1.ViewModels.DetallesReservacionViewModel
+@{
+    ViewData["Title"] = "Detalles de Reservación";
+}
+
+<div class="d-flex align-items-center gap-2 mb-3">
+    <a class="btn btn-outline-secondary btn-sm" asp-action="Index">← Volver al listado</a>
+    <h1 class="h3 mb-0">Detalles de Reservación</h1>
+</div>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <i class="bi bi-check-circle-fill me-2"></i>@TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+<div class="form-card p-4">
+    <div class="row g-4">
+
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center">
+                <span class="badge bg-primary fs-6 px-3 py-2">Reservación N.º @Model.Reservacion.Id</span>
+                <small class="text-muted">Registrada el @Model.Reservacion.FechaDeRegistro.ToString("dd/MM/yyyy HH:mm")</small>
+            </div>
+            <hr />
+        </div>
+
+        <!-- Datos del cliente -->
+        <div class="col-md-6">
+            <h5 class="mb-3 text-muted text-uppercase" style="font-size:.75rem;letter-spacing:.08em">Datos del cliente</h5>
+            <dl class="row mb-0">
+                <dt class="col-sm-5">Nombre</dt>
+                <dd class="col-sm-7">@Model.Reservacion.NombreDeLaPersona</dd>
+
+                <dt class="col-sm-5">Identificación</dt>
+                <dd class="col-sm-7">@Model.Reservacion.Identificacion</dd>
+
+                <dt class="col-sm-5">Teléfono</dt>
+                <dd class="col-sm-7">@Model.Reservacion.Telefono</dd>
+
+                <dt class="col-sm-5">Correo</dt>
+                <dd class="col-sm-7">@Model.Reservacion.Correo</dd>
+
+                <dt class="col-sm-5">Fecha de nacimiento</dt>
+                <dd class="col-sm-7">@Model.Reservacion.FechaNacimiento.ToString("dd/MM/yyyy")</dd>
+
+                <dt class="col-sm-5">Dirección</dt>
+                <dd class="col-sm-7">@Model.Reservacion.Direccion</dd>
+            </dl>
+        </div>
+
+        <!-- Datos de la habitación -->
+        <div class="col-md-6">
+            <h5 class="mb-3 text-muted text-uppercase" style="font-size:.75rem;letter-spacing:.08em">Habitación reservada</h5>
+            @if (Model.Habitacion != null)
+            {
+                <dl class="row mb-0">
+                    <dt class="col-sm-5">Código</dt>
+                    <dd class="col-sm-7">@Model.Habitacion.CodigoDeHabitacion</dd>
+
+                    <dt class="col-sm-5">Nombre</dt>
+                    <dd class="col-sm-7">@Model.Habitacion.NombreDeHabitacion</dd>
+
+                    <dt class="col-sm-5">Tipo</dt>
+                    <dd class="col-sm-7">
+                        @(Model.Habitacion.TipoDeHabitacion == 1 ? "Junior" :
+                          Model.Habitacion.TipoDeHabitacion == 2 ? "Superior" : "Suite")
+                    </dd>
+
+                    <dt class="col-sm-5">Capacidad</dt>
+                    <dd class="col-sm-7">@Model.Habitacion.CantidadDeHuespedesPermitidos persona(s)</dd>
+
+                    <dt class="col-sm-5">Ubicación</dt>
+                    <dd class="col-sm-7">@Model.Habitacion.Ubicacion</dd>
+                </dl>
+            }
+        </div>
+
+        <!-- Datos de la reserva -->
+        <div class="col-12">
+            <hr />
+            <h5 class="mb-3 text-muted text-uppercase" style="font-size:.75rem;letter-spacing:.08em">Detalles de la reserva</h5>
+            <div class="row g-3">
+                <div class="col-md-3">
+                    <div class="p-3 bg-light rounded text-center">
+                        <div class="text-muted small">Fecha inicio</div>
+                        <div class="fw-semibold">@Model.Reservacion.FechaInicioReserva.ToString("dd/MM/yyyy")</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="p-3 bg-light rounded text-center">
+                        <div class="text-muted small">Fecha fin</div>
+                        <div class="fw-semibold">@Model.Reservacion.FechaFinReserva.ToString("dd/MM/yyyy")</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="p-3 bg-light rounded text-center">
+                        <div class="text-muted small">Cantidad de noches</div>
+                        <div class="fw-semibold">@Model.CantidadDias noche(s)</div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="p-3 bg-primary text-white rounded text-center">
+                        <div class="small opacity-75">Monto total</div>
+                        <div class="fw-bold fs-5">@Model.Reservacion.MontoTotal.ToString("C")</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
